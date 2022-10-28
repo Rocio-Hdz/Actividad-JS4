@@ -3,11 +3,16 @@ body{
     background-color: #FFF5E4;
 }
 
+
 h1{
     text-align: center;
     font-family: impact;
     font-size: 80px;
     color: #A10035;
     -webkit-text-stroke: 1px #FF869E ;
+}
+
+a{
+    font-size: 20px;
 }
 
